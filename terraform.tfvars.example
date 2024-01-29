@@ -1,0 +1,12 @@
+aws_region                = "us-east-2"
+jira_token                = "YOUR_JIRA_API_TOKEN"
+slack_webhook             = "YOUR_SLACK_WEBHOOK_URL"
+unique_identifier         = "some-unique-prefix"
+app_name                  = "the-name-of-your-app"
+timezone                  = "America/New_York"
+weekly_schedule_mins      = 0
+weekly_schedule_hour      = 10
+weekly_schedule_dayofweek = "FRI"
+owner                     = "your.email@example.com"
+specialist_list           = "First Specialist, Second Specialist"
+done_days                 = 14
